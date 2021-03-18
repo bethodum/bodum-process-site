@@ -17,8 +17,13 @@ h1, h2, h3, h4, h5{
   font-family: Helvetica, sans-serif;
 }
 
+.post .content{
+  text-align: left;
+}
 
-
+p{
+  font-family: 'Courier New', Courier, monospace;
+}
 /* If you want to change the banner button color. The following two css rules use a class called "redbtn".
 You can call the class whatever you want, but in order for it to work, it needs to be
 added to the button in the index html file as well.*/
