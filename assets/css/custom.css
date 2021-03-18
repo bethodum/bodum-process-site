@@ -2,6 +2,7 @@
  Main home banner customizations
  *********************************************/
  @import url("https://use.typekit.net/bhu7lzm.css");
+ @import url("https://use.typekit.net/bhu7lzm.css");
 
  #banner {
   /*background-color: plum;*/
@@ -15,7 +16,9 @@
 } 
 
 h1, h2, h3, h4, h5{
-  font-family: Helvetica, sans-serif;
+  font-family: garage-gothic, sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .post .content{
@@ -23,7 +26,9 @@ h1, h2, h3, h4, h5{
 }
 
 p{
-  font-family: 'Courier New', Courier, monospace;
+  font-family: antarctican-mono, sans-serif;
+  font-weight: 200;
+  font-style: normal;
 }
 /* If you want to change the banner button color. The following two css rules use a class called "redbtn".
 You can call the class whatever you want, but in order for it to work, it needs to be
