@@ -2,11 +2,12 @@
  Main home banner customizations
  *********************************************/
 
-#banner {
-  background-image: url(/images/peace.jpg);
+ #banner {
+  background-color: plum;
+  /* background-image: url(../../images/pic11.jpg); */
   background-size: cover;
   color: rgba(255, 255, 255, 0.75);
-  text-shadow: 1px 1px 15px #333;
+  /* text-shadow: 1px 1px 15px #333; */
   text-align: center;
   cursor: default;
   padding: 10em 4em 9em 4em;
