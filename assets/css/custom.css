@@ -15,17 +15,8 @@
   padding: 10em 4em 9em 4em;
 } 
 
-h1, h2, h3, h4, h5{
-  font-family: garage-gothic, sans-serif;
-  font-weight: 700;
-  font-style: normal;
-}
 
-.header{
-  font-family: garage-gothic, sans-serif;
-  font-weight: 700;
-  font-style: normal;
-}
+
 
 .post .content{
   text-align: left;
