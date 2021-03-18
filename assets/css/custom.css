@@ -17,6 +17,12 @@
 
 h1, h2, h3, h4, h5{
   font-family: garage-gothic, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+h1{
+  font-size: 900px;
 }
 
 .post .content{
