@@ -3304,7 +3304,7 @@ take precedence the ones in this file. */
 /* Banner */
 
 	#banner {
-		background-image:url(/images/peace.jpg);
+		background-color: #258cd1;
 		color: rgba(255, 255, 255, 0.75);
 		text-align: center;
 		cursor: default;
