@@ -43,6 +43,23 @@ added to the button in the index html file as well.*/
   background-color: rgba(188, 46, 26, .8);
 }
 
+td{
+  font-family: antarctican-mono, sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+li {
+  font-family: antarctican-mono, sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+th {
+  font-family: antarctican-mono, sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
 
 /*********************************************
  Write your css customizations below
